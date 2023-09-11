@@ -6,8 +6,19 @@
 
 - Bachelor in Information Systems. 👨‍🎓
 - I currently work with **Nodejs**, **Vuejs** and **Mongodb** @[DeeployMe](https://deeploy.me). 👨‍💻
-- I am studying English as a second language and also deepening my knowledge of technologies with a focus on JS. 
+- My main language is Portuguese, however I study English every week to have it as a second language.
+- Deepening my knowledge of technologies with a focus on web development. 
 - I love programming and create new things and solving problems with programming.
 - I like a challenge.
 
-#### (Javascript | Typescript | Vuejs | Reactjs | Nodejs | Docker | Cloud/Servless | MySQL/PostgreSQL | MongoDB | Tests) 👨‍💻 🚀
+#### TECHNOLOGIES 👨‍💻 🚀
+- Javascript
+- Nodejs | Express
+- PHP | Laravel
+- Vuejs
+- Docker
+- MySQL
+- PostgreSQL
+- MongoDB
+- Tests
+- AWS/Heroku
